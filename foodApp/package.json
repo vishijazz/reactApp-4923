@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "react-scripts build",
     "test": "react-scripts test"
   },
   "eslintConfig": {
